@@ -8,7 +8,7 @@ from bdocutils.files import read_file
 from bdocutils.files import path_format
 
 
-VERSION = "0.0.3"
+VERSION = "0.0.0"
 CURR_PATH = "{}{}".format(path.abspath(path.dirname(__file__)), '/')
 
 
